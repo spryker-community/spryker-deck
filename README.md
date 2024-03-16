@@ -29,3 +29,5 @@ https://docs.spryker.com/docs/dg/dev/set-up-spryker-locally/quickstart-guides-in
 ![started spryker](https://raw.githubusercontent.com/patrickjaja/sprykerdeck/main/PXL_20240303_000714013.jpg)
 
 Hackathon 2 min recording: https://drive.google.com/file/d/10lhc40ilRAg2bchdR13-wZqHWiOJQ51b/view?usp=drivesdk
+
+LinkedIn Demo: https://www.linkedin.com/posts/patrick-sch%C3%B6nfeld-7758161a2_spryker-hackathon-valantic-activity-7174554846870605824-9yR_
